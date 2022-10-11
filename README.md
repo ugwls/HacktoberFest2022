@@ -1,5 +1,4 @@
 <div align="center">
-  
 [![Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-blue.svg?style=flat&logo=github)](https://github.com/LeanIn-BV)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LeanIn-BV/HacktoberFest2021)
 ![Lines of code](https://img.shields.io/tokei/lines/github/LeanIn-BV/HacktoberFest2021?color=red&label=Lines%20of%20Code)
@@ -7,9 +6,8 @@
 ![Stars](https://img.shields.io/github/stars/LeanIn-BV/HacktoberFest2021?style=flat&logo=github)
 ![Forks](https://img.shields.io/github/forks/LeanIn-BV/HacktoberFest2021?style=flat&logo=github)
 
-  ![banner](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+  ![banner](https://tipseason.com/assets/images/hacktoberfest-banner.jpg)
  </div>
- 
  <div align="center">
   <img src="https://forthebadge.com/images/badges/for-you.svg" />
   <img src="https://forthebadge.com/images/badges/uses-html.svg" alt="html">
